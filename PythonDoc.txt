@@ -1,0 +1,36 @@
+Python Code With Harry: https://youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME
+
+Using (PyCham)
+
+PIP: Pip stand for (Preferred Installer Program) Pip is a Python (Package Manager) Pip get Builtin or External Modules.
+	for Example: 
+		1:Open CMD write pip install flask or any other external module.
+		2:Open interpreter of python write (python) on CMD. 
+		3:Whatever you Install Through PIP open Interpreter Write Install Import (Module Name Here) ex: import flask
+		4:Write exit() to close Python Interpreter.
+	
+Pycham: Open PyCham Write your first program 
+	For Example:
+		1: Create new project and make file of (main.py).
+		2: Write print("Hello World") in your pycham Editor.
+		3: Write Click on your Editor. In dropdown click on (Run) to Compile your Code.
+
+Comments: Comments, Escape Sequences in Code
+	For Example:
+		1: Single Line Comment Use # Hastag Sign
+		2: Multiple Line comment Use """ Triple Quotes
+		3: \n use for new Line. \t use for Tab
+		4: end("") function is use for continue the Line or write something on end() funtion it will show into two sentences.
+
+Variables: Variables, Datatypes and Typecasting
+	For Example:
+		1: write a = 10 (a) is a variable which store value.
+		2: write type() and write variable in type function. It is used for checking datatype of variable.
+		3: str(), int(), float() convert int() value into string() or string() to float
+		4: write str(4) + "Rabsha" now 4 is String and concate with Rabsha"
+		5: write int(4) + int("56") now 4 is Integer value and "56" is string but when we do int("56") its convert into int is Called Type Casting
+		6: Take User Input write input() store this into variable a = input() and print like this print("Enter your Name", a).
+		7: Input return in String answare you can convert with these datatypes int(),float(),string() or etc.
+
+
+7th Classes Done;
